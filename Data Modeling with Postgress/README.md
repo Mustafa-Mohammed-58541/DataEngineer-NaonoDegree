@@ -1,4 +1,4 @@
-# an Overview of the project:
+# Overview of the project:
 - The information that Sparkify has been gathering on songs and user activity on its new music streaming app will be examined.
 
 
